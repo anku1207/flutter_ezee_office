@@ -18,7 +18,7 @@ class _SplashViewState extends State<SplashView> with SingleTickerProviderStateM
       duration: new Duration(seconds: 1),
     );
 
-    animationController.
+    //animationController.repeat()
   }
 
 
